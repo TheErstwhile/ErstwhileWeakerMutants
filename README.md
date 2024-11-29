@@ -6,7 +6,7 @@
 <!-- ABOUT THE PROJECT -->
 # About
 
-_ COMPATIBLE AND INTEGRATED WITH PATCH 1.0.1 _
+_COMPATIBLE AND INTEGRATED WITH PATCH 1.0.1_
 
 The short and sweet of it: Mutant Health Reduction by 50% for S.T.A.L.K.E.R 2 Patch 1.0.1
 
